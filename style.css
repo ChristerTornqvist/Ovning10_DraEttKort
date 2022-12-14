@@ -1,0 +1,54 @@
+h1 {
+    margin-left: 8%;
+    font-weight: bold;
+}
+
+header {    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    background-color: darkgreen;
+    color: gold;
+}
+
+header p {
+    margin-left: 2%;
+}
+
+body {
+    background-image: url('images/CardTable.jpg');
+    background-size: cover;
+}
+
+#btnDrawCard {
+    margin-left: 18%;
+    background-color: darkgreen;
+    border-color: gold;
+    color: gold;
+}
+
+#btnDrawCard:hover {
+    background-color: #057205;
+}
+
+#imageTarget {
+    min-height: 350px;
+    margin-left: 12%;
+    margin-top: 8%;
+}
+
+footer {
+    height: 245px;
+    max-width: 600px;
+    background-image: url('images/Deck.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+footer p {
+    margin-left: 8%;
+    margin-top: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+    color: gold;
+}
